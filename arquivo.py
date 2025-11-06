@@ -7,5 +7,5 @@ print(mensagem)
 def bemvinda(nome):
     """Retorna bemvindo."""
     return f"ola, {nome}! este e um teste de integração VS code + GitHub."
-    mensagem = bemvindo("Mundo GitHub")
+    mensagem = bemvindo("Mundo GitHub Atualizado com sucesso")
     print(mensagem)
